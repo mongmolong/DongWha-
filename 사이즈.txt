@@ -1,0 +1,50 @@
+화면 1920*1080
+
+빨간바 white
+ ->설명 231f20
+
+노란바 fafafa
+->설명 505050
+
+
+
+빨강 기본 :  color: #ff3333;
+글씨 기본     color: #333333;
+기본 하양   color:  #f9f9f9;
+
+
+432 270
+
+
+new 
+#section .new_pro .l_new_text>h5 {
+    font-weight: 400;
+    font-size: 17pt;
+}
+
+#section .new_pro .l_new_text>p {
+    font-size: 20pt;
+    margin-top: 26px;
+}
+
+#section .new_pro .l_new_text>h1 {
+    font-size: 40pt;
+    font-weight: 500;
+}
+
+
+
+
+
+
+#section .network .b_net_icons .net01 {
+    margin-left: -315px;
+}
+
+/* ---icons02 */
+
+#section .network .b_net_icons .net02 {
+    /* margin-left: -500px; */
+    margin-left: -480px;
+    margin-top: 40px;
+}
